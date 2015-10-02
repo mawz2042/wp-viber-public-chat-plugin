@@ -1,0 +1,122 @@
+.viber_wrapper{
+    max-width: 260px;
+    margin: 0 auto;
+    border: 1px solid #774f98;
+    padding: 5px;
+}
+
+.viber_header{
+    margin-bottom: 5px;
+}
+
+.viber_body{
+    margin-top: 5px;
+}
+
+.viber_header .viber_followers{
+    margin-left: 115px;
+    margin-top: -35px;
+}
+
+.viber_header .viber_owner_avatar{
+    max-height: 80px;
+    max-width: 80px;
+    border-radius: 35%;
+    /*float: left;*/
+    display: inline-block;
+    margin-right: 20px;
+    /*margin-bottom: 30px;*/
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.viber_header p{
+    display: inline-block;
+}
+
+.viber_body .viber_part_avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 35%;
+    display: inline-block;
+    text-align: center;
+}
+
+.viber_header .viber_owner_name{
+    font-size: 22px;
+}
+
+.viber_body .viber_hr{
+    border-bottom: 1px solid;
+    color: #6c6c6c;
+    margin-bottom: 0;
+}
+
+.viber_part{
+    width: auto;
+}
+
+.viber_body li{
+    margin-right: 6px;
+    float: left;
+    color:#774f98;
+    font-size: 12px;
+}
+
+.viber_body li:last-child{
+    margin-right: 0;
+}
+
+.viber_wrapper .viber_body ul{
+    overflow: hidden;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+.viber_body li p{
+    text-align: center;
+    width:55px;
+}
+
+.viber_body a{
+    text-align: center;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    font-size: 20px;
+    width: 150px;
+    display: block;
+    background-color: #fff;
+    text-decoration: none;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.viber_body img{
+    margin-left: 5px;
+    display: block;
+}
+
+.viber_body .viber_follow{
+    color: #fff;
+    background-color: #774f98;
+}
+
+.viber_body .viber_follow:hover{
+    color: white;
+    /*background-color: #fff;*/
+    text-decoration: underline;
+
+}
+
+.viber_logo_phone{
+    max-height: 20px;
+    max-width: 20px;
+    float: left;
+    margin-top: 5px;
+}
+.viber_body a img{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+
